@@ -2,7 +2,7 @@
 
 A full-stack web application for team project management, task assignment, and progress tracking with role-based access control (Admin/Member).
 
-**Built by Ethara AI**
+**Developed by Saumya Pandey**
 
 🔗 **Live URL:** [https://web-production-228f7.up.railway.app]
 📦 **GitHub Repo:** [https://github.com/saumyapandey14/TaskFlow]
