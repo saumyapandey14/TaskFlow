@@ -4,8 +4,8 @@ A full-stack web application for team project management, task assignment, and p
 
 **Built by Ethara AI**
 
-🔗 **Live URL:** [https://web-production-228f7.up.railway.app](https://web-production-84831.up.railway.app/login)  
-📦 **GitHub Repo:** [https://github.com/HassamUmar/TeamTracker](http://github.com/Apurvkrishna23/TeamTracker)
+🔗 **Live URL:** [https://web-production-228f7.up.railway.app]
+📦 **GitHub Repo:** [https://github.com/saumyapandey14/TaskFlow]
 
 ---
 
@@ -34,7 +34,6 @@ A full-stack web application for team project management, task assignment, and p
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Manas1718/Team-Task-Manager.git
 cd Team-Task-Manager
 npm install
 npm run build
@@ -126,7 +125,7 @@ ethara-task-manager/
 ## ✅ Submission Checklist
 
 - [x] Live URL: https://web-production-84831.up.railway.app/login
-- [x] GitHub Repo: (http://github.com/Apurvkrishna23/TeamTracker)
+- [x] GitHub Repo: (http://github.com/saumyapandey14/TeamTracker)
 - [x] README documentation
 - [ ] 2–5 min demo video
 
